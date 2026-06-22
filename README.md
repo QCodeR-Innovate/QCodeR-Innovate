@@ -54,12 +54,7 @@ interests = {
 🧠 PRAMITI
 Preservation & Discovery Layer of Human Knowledge
 
-🎙️ CLARITY
-Real-time Edge AI Speech Enhancement System
-
 🕸️ Graph Neural Networks for Industrial Defect Detection
-
-📈 Regime-Aware Deep Reinforcement Learning Systems
 
 ---
 
@@ -177,22 +172,3 @@ Real-time Edge AI Speech Enhancement System
 * AI for Scientific Discovery
 
 ---
-
-## Philosophy
-
-> Curiosity compounds.
-
-> Great products begin with real problems.
-
-> Technology should amplify human potential.
-
-> Building is the fastest way to learn.
-
----
-
-<p align="center">
-<i>
-Trying to become the kind of engineer who can understand a problem,
-build a solution, and bring it into the world.
-</i>
-</p>
