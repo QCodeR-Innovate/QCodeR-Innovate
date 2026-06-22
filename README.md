@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pushkar 👋
 
-<!--
-**QCodeR-Innovate/QCodeR-Innovate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Civil Engineering & Mathematics and Computing @ IIT Kharagpur
 
-Here are some ideas to get you started:
+I enjoy building products at the intersection of AI, engineering, and human knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring how intelligent systems can help people learn faster, discover better ideas, and make sense of complex domains.
+
+### What I'm Working On
+
+* AI Engineering
+* Scientific Machine Learning
+* Knowledge Discovery Systems
+* Product Development
+
+### Current Projects
+
+* CLARITY — Speech Enhancement using DeepFilterNet
+* PRAMITI — The Preservation and Discovery Layer of Human Knowledge
+* AI-powered research and learning tools
+
+### Interests
+
+Machine Learning • LLMs • Product Design • Quantitative Research • Scientific Computing • Entrepreneurship
+
+### Beliefs
+
+* Curiosity compounds.
+* Great products start with real problems.
+* Technology should amplify human potential.
+* Building is the fastest way to learn.
+
+---
+
+*"Trying to become the kind of engineer who can understand a problem, build a solution, and bring it into the world."*
