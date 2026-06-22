@@ -34,16 +34,12 @@ I enjoy building systems that combine first-principles reasoning, mathematical m
 
 ```python
 interests = {
-    "Machine Learning",
     "Scientific Machine Learning",
-    "Graph Neural Networks",
+    "Graph Representation Learning",
     "Reinforcement Learning",
-    "Knowledge Discovery Systems",
-    "Agentic AI",
-    "Quantitative Research",
-    "Quantum Computing",
+    "Neural Operators",
     "Scientific Computing",
-    "Deep Tech"
+    "AI for Scientific Discovery"
 }
 ```
 
@@ -85,19 +81,9 @@ Preservation & Discovery Layer of Human Knowledge
 <p>
 <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scientific%20ML-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quantum%20Computing-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quantum%20Algorithms-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## Current Reading List
-
-* Scientific Machine Learning
-* Graph Representation Learning
-* Neural Operators
-* Reinforcement Learning
-* Quantum Algorithms
-* AI for Scientific Discovery
-
----
