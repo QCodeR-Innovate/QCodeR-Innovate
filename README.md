@@ -13,15 +13,9 @@ Currently exploring how intelligent systems can help people learn faster, discov
 * Knowledge Discovery Systems
 * Product Development
 
-### Current Projects
-
-* CLARITY — Speech Enhancement using DeepFilterNet
-* PRAMITI — The Preservation and Discovery Layer of Human Knowledge
-* AI-powered research and learning tools
-
 ### Interests
 
-Machine Learning • LLMs • Product Design • Quantitative Research • Scientific Computing • Entrepreneurship
+Machine Learning • LLMs • Product Design • Quantitative Research • Scientific Computing • Quantum Computing
 
 ### Beliefs
 
